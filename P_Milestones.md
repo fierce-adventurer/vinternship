@@ -48,7 +48,7 @@ Build projects that demonstrate your ability to work across the entire stack. Pr
 
 Your performance is evaluated based on consistent progress, quality of work, and successful completion of all components. The table below outlines the key milestones and their contribution to your overall evaluation:
 
-| S.No. | Milestone | Deadline | HP (Honour Points) |
+| S.No. | Milestone | Deadline | HP (Health Points) |
 |-------|-----------|----------|-------------------|
 | 1 | 25% ViBe Course completion | 1 week | 2.5% |
 | 2 | 50% ViBe Course completion | 2 weeks | 5% |
