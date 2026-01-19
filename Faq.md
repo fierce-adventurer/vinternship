@@ -33,7 +33,7 @@ The internship follows a structured timeline with specific milestones and delive
 **1.3 What is the mode of this internship?**  
 The internship will be conducted in **online mode only**.
 
-**1.4 Are there fixed timings or live sessions?**  
+**1.4 Are there fixed timings for live sessions?**  
 The program includes scheduled live sessions, workshops, and mentorship meetings. The timings for these sessions will be conveyed well in advance.
 
 **1.5 Where can I find the Internship ID?**  
@@ -47,10 +47,10 @@ The Internship ID will be mentioned in the offer letter sent by NPTEL POC.
 The program will be conducted strictly in **online mode**.
 
 **2.2 Is attendance tracked in this internship?**  
-Attendance is compulsory for the standups that are scheduled for every Monday, Wednesday and Friday at 8:45 PM. For other activities also, the attendance is tracked. Attendance will be counted **only if your camera remains ON for the entire Zoom session**. If the camera is not switched on for a sustained duration, the session may **not be considered as full attendance**.
+Attendance is compulsory for the standups that are scheduled for every Monday, Wednesday and Friday at 8:45 PM. Attendance is tracked for all the live session activities. Attendance will be counted **only if your camera remains ON for the entire Zoom session**. If the camera is not switched on for a sustained duration, the session may **not be considered as full attendance**.
 
 **2.3 Do I need to use a specific name or email for the internship?**  
-Yes. You must use the **same name and email ID** used during registration across all platforms (ViBe, GitHub, Cliq, etc.) for proper tracking of your progress.
+Yes. You must use the **same name and email ID** used during registration across all platforms (ViBe, GitHub, Cliq, etc.) for automated tracking of your progress.
 
 **2.4 Should I fill the attendance form attached to the NPTEL offer letter?**  
 Yes. You must fill the **Google Form provided in the NPTEL offer letter** **every day** during your internship (**except Sundays**).
@@ -59,13 +59,11 @@ Guidelines:
 - Fill in all required details **daily**
 - The form should be preferably filled **in the evening**, after completing the day’s work
 - This form is **mandatory** for marking your attendance on **NPTEL’s side** throughout the internship
-
-**2.5 I forgot to fill the attendance form attached to the NPTEL offer letter yesterday. What should I do now?**  
-Unfortunately, there is nothing that can be done, as the form is used for **NPTEL’s official database** and attendance **cannot be recorded for the previous day**. The previous day will be considered as a leave and two such days will automatically lead to termination.
+- Any other questions regarding the same can be mailed to the NPTEL team for clarity
 
 Please ensure that the form is filled **daily** going forward to avoid missing attendance again.
 
-**2.6 How can I avail the one-day leave allowed during the internship?**  
+**2.5 How can I avail the one-day leave allowed during the internship?**  
 Taking leave is **discouraged**, as you may miss important updates shared during live sessions or fall behind in your progress. It will be **your own responsibility** to complete the work missed on the leave day.
 
 However, if you must take the leave, follow the steps below:
@@ -78,7 +76,6 @@ However, if you must take the leave, follow the steps below:
   - The **exact date** on which you intend to take the leave
 
 Once submitted, the request will be reviewed and processed by the team.
-
 
 ---
 
@@ -96,22 +93,15 @@ Yes, your project mentors can schedule a meeting based on the doubts and issues 
 ## 4. Support and Resolution Protocol
 
 **4.1 Where do I raise my concern initially?**  
-Initially, try to get your query resolved from the FAQ or from your fellow interns in the Cliq channels. If the query is still not resolved, you can mail your query to the email ID below.
+Initially, try to get your query resolved from the FAQ. Check the Broadcast cliq channel, else from your fellow interns in the Discussion Cliq channels. If the query is still not resolved, you can email your query to the email ID below.
 
 Email **pinternship-support@vicharanashala.zohodesk.in**.  
 Responses are provided **within 2 hours** between **9:00 AM and 9:00 PM**.
 
 **4.2 What if I don’t receive a response within 24 hours?**  
-Raise a **second ticket** with the subject:  
-> *Attention Please – Follow-up on Ticket #[Original Ticket Number]*
+Use the **Pinternship - Escalation** Cliq channel to raise your concern. We recommend that you follow the escalation policy.
 
-**4.3 Who responds to the second ticket?**  
-The **Mentors Team**, via a **voice call**.
-
-**4.4 How do I escalate further?**  
-Use the **Pinternship - Escalation** Cliq channel to raise your concern. We recommend that please follow the escalation policy.
-
-**4.5 Is this escalation process mandatory?**  
+**4.3 Is this escalation process mandatory?**  
 Yes, this **three-step process** must be followed.
 
 ---
@@ -119,28 +109,30 @@ Yes, this **three-step process** must be followed.
 ## 5. Completion & Certification
 
 **5.1 What are the program completion criteria?**  
-- Completion of **all ViBe platform course modules** (Required)
+- Completion of all course modules on the Learning platform. (Required)
 - Completion of case studies provided for learning using the code. (Required)
-- Contribution to real-time applications or projects.
+- Completion of Viva/endorsement for the Case Study
+- Contribution to real-time applications or projects
 
 **5.2 Where can I find information on certification?**  
-Please refer to the official communication from VLED Lab or contact the program coordinators (NPTEL) for information on certification requirements and the process.
+NPTEL interns should contact the NPTEL internship team for the information regarding certificates.
 
 **5.3 Will recommendation letters be provided?**  
-Not guaranteed. They are issued **at the instructor's discretion** based on performance and engagement.
+ Recommendation letters are not guaranteed. You may request one from the course instructor after completing the internship, and it will be at their discretion based on the performance of the candidate.
+
 
 ---
 
 ## 6. Discontinuation Policy
 
 **6.1 What is the expected pace of learning?**  
-This is a self-paced program, but you are expected to maintain steady progress through all three required components: Core Learning (ViBe Training), Advanced Learning (Case Studies), and Practical Learning (Projects). You should work through the modules consistently to ensure continuous engagement and build momentum in your learning journey.
+You are expected to maintain steady progress through all three required components with well-defined milestones: Core Learning (ViBe Training), Advanced Learning (Case Studies), and Practical Learning (Projects). You should work through the modules consistently to ensure continuous engagement and build momentum in your learning journey.
 
 **6.2 What happens if I don't maintain regular progress?**  
 If you remain inactive or fail to make reasonable progress over an extended period, we may discontinue your access to the program. The program has a 2-month duration with a possible 15-day extension based on individual circumstances. This policy helps ensure that active learners have the best support and resources.
 
 **6.3 Can I appeal a discontinuation decision?**  
-No, discontinuation decisions are **final** and cannot be appealed.
+No, discontinuation decisions are **final** and cannot be appealed if the attendance or milestone requirements are not met.
 
 **6.4 Can I rejoin the program after discontinuation?**  
 No, once discontinued, you cannot rejoin the current program. You would need to apply afresh for any future program offerings, subject to availability.
@@ -203,7 +195,7 @@ Try these troubleshooting steps in order:
 4. **Use a different browser**
 5. **Clear browsing data and cache**, then try to re-login
 
-If the issue persists after trying all steps, **record the issue** and email it to: **pinternship-support@vicharanashala.zohodesk.in** between **9:00 AM and 9:00 PM**.
+If the issue persists after trying all steps, **record the issue** and email it to: **pinternship-support@vicharanashala.zohodesk.in**.
 
 **7.6 I have completed all videos and quizzes in the ViBe course, but my progress is still showing less than 100%. What should I do?**  
 
@@ -215,10 +207,6 @@ In the meantime, you may try the following steps once:
 2. **Log out**, clear your browser cache, and **log in again**
 
 If the issue still persists after these steps, no further action is required from your side. Your course completion status will be corrected by the support team shortly.
-
-**7.7 Has the ViBe course progress of previous interns been reset?**  
-
-Yes, the ViBe progress of previous interns has been reset to ensure uniform tracking and evaluation for the current internship cohort. Participants above 80% of completion maybe considered for reinstation of progress.
 
 ---
 
@@ -247,7 +235,7 @@ If you face this issue, follow the steps below:
 If the issue persists, take a **screenshot or screen recording** clearly showing the error message, briefly explain the problem, and email it to:  
 **pinternship-support@vicharanashala.zohodesk.in** between **9:00 AM and 9:00 PM**.
 
-**8.3 I have joined the Cliq Channel but I am unable to message in it. What should I do?**  
+**8.3 I have joined the Cliq Channel, but I am unable to message in it. What should I do?**  
 
 This issue is usually caused by restricted collaboration permissions.
 
@@ -336,18 +324,18 @@ Each case study includes:
 Yes. Case studies are a **required component** for completing the Pinternship program. All participants must complete the case studies after finishing ViBe training and before moving to the Projects phase.
 
 **9.3 How do I get started with Case Studies?**  
-After completing all ViBe videos:
+After completing all ViBe MERN modules:
 
 1. Click the **Case Studies** link in the navigation bar at the top of the page.
 2. Select a **technology** and then choose a **lesson**.
 3. Read the entire documentation carefully to understand the concept and tasks to be performed.
 4. Try to understand each case study first, then attempt to code a solution for it.
 5. Open a code editor (for example, **VS Code**) and implement the tasks.
-5. Getting stuck is normal — ask questions on Cliq, revisit the ViBe videos, and discuss with others.
+5. Getting stuck is normal. You can ask questions on Cliq, revisit the ViBe videos, and discuss with others.
 7. Submit your work using the provided submission link.
 
-**9.4 What comes after Case Studies?**  
-After completing case studies, you move to the third component: **Practical Learning (Projects)**. You will contribute to real open-source projects, working with our developers to build real applications and add new features.
+**9.4 What comes after Case Studies?**
+After completing case studies, you move ahead to the Endorsement phase. The Self-healing endorsement network is a peer evaluation strategy that the learner needs to accomplish before getting into the next phase. The learner is expected to take an endorsement from a peer and move ahead to the third component: **Practical Learning (Projects)**. Visit - [The Self-Healing Endorsement Network page](https://sudarshansudarshan.github.io/pinternship/endorsements/) to learn more about endorsements.
 
 **9.5 How do I submit the case studies?**  
 
@@ -356,7 +344,7 @@ After completing case studies, you move to the third component: **Practical Lear
    - First name and last name  
    - Email ID associated with the internship  
    - Technology name and lesson number completed  
-3. Upload the file containing your solution  
+3. Upload the file containing your solution for the specific lesson  
    (supported formats include `.js`, `.ts`, `.txt`, `.zip`, etc.)
 4. Review your details and submit the form.
 5. Repeat this process for **each lesson** you complete.
@@ -375,7 +363,10 @@ This collaborative approach is encouraged to enhance learning and problem-solvin
 
 
 **9.8 Where can I view my submission status and access the leaderboard and dashboard?**  
-You can track your submission status, access the leaderboard, and view the dashboard by visiting the Pinternship Live Dashbord section on website homepage.
+You can track your submission status, access the leaderboard, and view the dashboard by visiting the Pinternship Live Dashboard section on the website homepage.
+
+**9.9. What next if I completed my Case Studies and I am done with my endorsements?**
+We have some project ideas from the existing open source projects from Vicharanashala Lab for Education Design and Annam.AI listed on the Pinternship website. You can contribute to these real-time open-source projects, working with our developers to build real applications and add new features.
 
 
 ## 10. Ejection Policy
@@ -403,13 +394,13 @@ Backward Eject refers to the removal of a participant from the internship due to
 **10.5 How is inactivity measured for Backward Ejection?**  
 Backward Ejection is triggered **only if both conditions are met simultaneously**:
 
-1. Your average daily progress on the ViBe platform falls **below 3.33% per day**, **and**  
+1. Your average daily progress on the ViBe platform falls **below 3.33% per day**, **and** 
 2. Your overall engagement level places you within the **bottom 10% of the active cohort**.
 
 This dual-condition check ensures fairness and prevents short-term slowdowns from being penalized.
 
 **10.6 Is the ejection process manual or automated?**  
-The process is **automated and data-driven**. An algorithm evaluates progress and cohort standing objectively, ensuring transparency and eliminating subjective bias or manual intervention.
+The process will be **automated and data-driven**. An algorithm objectively evaluates progress and cohort standing, ensuring transparency and eliminating subjective bias or manual intervention. Manual intervention at a higher level is currently in place to oversee the ejection and ensure correctness.
 
 **10.7 Can I avoid being ejected from the program?**  
 Yes. Maintaining steady progress above the minimum threshold and remaining actively engaged with the ViBe platform ensures that your position in the program remains secure.
@@ -426,10 +417,10 @@ Backward Ejection removes you from the current cohort only. Forward Ejection, ho
 
 ---
 
-## 11. Viva/PES (Self-Healing Endorsement Network)
+## 11. Self-Healing Endorsement Network - Viva/Peer Evaluation System(PES)
 
 **11.1 What is the Self-Healing Endorsement Network?**  
-The **Self-Healing Endorsement Network** is the official evaluation framework used for **Viva/PES**.
+The **Self-Healing Endorsement Network** is the official evaluation framework for the Case study activity completion for the learners.
 
 It is a **peer-driven endorsement system** where interns endorse each other’s learning and contributions. All endorsements together form a **connected endorsement network**.
 
@@ -487,12 +478,12 @@ This is **not prohibited**, but interns are expected to endorse **responsibly an
 
 
 **11.7 How do audits work in the endorsement network?**  
-Audits are conducted by **Bhavna ma’am** to identify defaulters and irregularities.
+Audits are conducted by **Bhavna** to identify interns who need improvement and work on Case studies before they get into the project phase.
 
-If a **defaulter** is identified:
+If a **Needs Improvement** intern is identified:
 - The **entire endorsement path** connected to that intern is audited
 - A **50% health point penalty** is applied to everyone in that connected group
-- The **defaulter and anyone who fails the audit** are **removed from the network**
+- The **intern and anyone who fails the audit** are **removed from the network**
 
 
 **11.8 What happens if I am certified as “good” during an audit?**  
@@ -525,7 +516,7 @@ Endorsements are tracked using a **three-column dataset**:
 Possible actions:
 - **Add** → Member 1 endorsed Member 2  
 - **Delete** → Member 1 de-endorsed Member 2  
-- **Default** → Member 1 is a defaulter and Member 2 is the parent in the chain  
+- **Needs Improvement** → Member 1 is belongs to Needs Improvement category, Member 2 is the parent in the chain  
 
 This dataset is used to:
 - Track endorsement paths
@@ -554,7 +545,7 @@ The form contains **mandatory sections**:
 - Avoid duplicate or reciprocal entries
 
 <!-- ⏳ **Deadline:**  
-All endorsements and de-endorsements must be completed **by Friday 16th January 2026**. -->
+YET TO BE ANNOUNCED**. -->
 
 
 **11.12 What should interns keep in mind while endorsing others?**  
