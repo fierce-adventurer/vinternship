@@ -1,9 +1,10 @@
 ---
 layout: cohort-page
-title: "NPTEL Cohort 1"
+title: "Euclideans"
 cohort_id: cohort1
-display_name: "Cohort 1"
+display_name: "Euclideans"
 start_date: "15th Jan 2026"
+end_date: ""
 status: "Active"
 dashboard_available: true
 color: "3B82F6"

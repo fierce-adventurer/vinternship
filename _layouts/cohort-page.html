@@ -7,6 +7,8 @@ layout: default
 {% assign status_color = page.color %}
 {% if page.status == "Active" %}
   {% assign status_icon = "🟢" %}
+{% elsif page.status == "Completed" %}
+  {% assign status_icon = "🔵" %}
 {% else %}
   {% assign status_icon = "🟡" %}
 {% endif %}
@@ -14,7 +16,11 @@ layout: default
 <div style="background: linear-gradient(135deg, #{{ status_color }}10 0%, #{{ status_color }}20 100%); padding: 2rem; border-radius: 12px; margin-bottom: 2rem; border-left: 6px solid #{{ status_color }};">
   <h1 style="margin: 0 0 0.5rem 0; color: #24292e;">{{ page.display_name }}</h1>
   <div style="color: #586069; font-size: 0.95rem;">
-    <span>📅 Started: {{ page.start_date }}</span>
+    {% if page.end_date != "" and page.end_date %}
+      <span>📅 Started: {{ page.start_date }} | Ended: {{ page.end_date }}</span>
+    {% else %}
+      <span>📅 Started: {{ page.start_date }}</span>
+    {% endif %}
     <span style="margin-left: 1rem;">{{ status_icon }} {{ page.status }}</span>
   </div>
 </div>

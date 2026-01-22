@@ -23,6 +23,8 @@ Choose your cohort to view general information, live dashboard, announcements, a
     {% assign status_color = cohort.color %}
     {% if cohort.status == "Active" %}
       {% assign status_icon = "🟢" %}
+    {% elsif cohort.status == "Completed" %}
+      {% assign status_icon = "🔵" %}
     {% else %}
       {% assign status_icon = "🟡" %}
     {% endif %}
@@ -35,7 +37,11 @@ Choose your cohort to view general information, live dashboard, announcements, a
         {{ status_icon }} {{ cohort.status }}
       </div>
       <div style="color: #586069; font-size: 0.95rem;">
-        📅 Started: {{ cohort.start_date }}
+        {% if cohort.end_date != "" and cohort.end_date %}
+          📅 Started: {{ cohort.start_date }} | Ended: {{ cohort.end_date }}
+        {% else %}
+          📅 Started: {{ cohort.start_date }}
+        {% endif %}
       </div>
       <div style="color: #586069; font-size: 0.9rem; margin-top: 0.5rem; font-style: italic;">
         View dashboard, announcements & info →

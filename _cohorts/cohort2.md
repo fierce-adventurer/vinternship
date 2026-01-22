@@ -1,9 +1,10 @@
 ---
 layout: cohort-page
-title: "NPTEL Cohort 2"
+title: "Dijkstrians"
 cohort_id: cohort2
-display_name: "Cohort 2"
+display_name: "Dijkstrians"
 start_date: "22nd Jan 2026"
+end_date: ""
 status: "Upcoming"
 dashboard_available: false
 color: "059669"
