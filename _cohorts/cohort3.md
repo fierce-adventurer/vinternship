@@ -6,7 +6,7 @@ display_name: "Kruskalians"
 start_date: "1st Feb 2026"
 end_date: ""
 status: "Upcoming"
-dashboard_available: false
+dashboard_available: true
 color: "FBC02D"
 schedule:
   standups:
