@@ -172,8 +172,8 @@ type ApiResponse<T = string> = {
   data: T;
   status: number;
 };
-const resp: ApiResponse = { data: "OK", status: 200 }; // T is string by default
 
+const resp: ApiResponse = { data: "OK", status: 200 }; // T is string by default
   ```
 ## **Utility Types (Built-in Generics)**
 

@@ -241,7 +241,32 @@ If you see “No course enrolled”:
 
 - Use personal wifi instead of college wifi as there might be some network restrictions of access.
 
-- If the issue continues, contact support with your registered email ID and a screenshot.
+- If the issue continues, please follow these steps:  
+
+Step 1: Allow Third-Party Cookies
+ 
+- Enable Cookies in Chrome: Open chrome://settings/cookies. 
+  Turn OFF "Block third-party cookies" and turn ON "Allow all cookies."
+- Add Site Exception: Scroll to "Sites that can always use cookies" and click "Add." 
+Paste *.][vicharanashala.ai and ensure "Including third-party cookies" is enabled.
+- Restart browser.
+ 
+Step 2: Fix DNS (Most Important)
+ 
+- Change your laptop DNS to Google DNS.
+- Go to: Control Panel → Network → Active Network → Properties → IPv4.
+- Shotcut: win+R -> ncpa.cpl, right click properties
+- Set Preferred DNS to 8.8.8.8 and Alternate DNS to 8.8.4.4.
+- Save.
+ 
+Step 3: Flush Old DNS Cache (its safe)
+ 
+- Open Command Prompt as Admin.
+- Run the following commands:
+- ipconfig /flushdns
+- ipconfig /release
+- ipconfig /renew
+- Restart WiFi.
 
 **7.3 Why are videos stuck or repeating?**  
 This may happen due to ViBe’s monitored learning system. Common reasons include:
@@ -272,14 +297,12 @@ If the issue persists after trying all steps, **record the issue** and email it 
 
 **7.6 I have completed all videos and quizzes in the ViBe course, but my progress is still showing less than 100%. What should I do?**  
 
-Please do not worry. This is a **dashboard-level technical issue** that has already been acknowledged by the support team and communicated. The team is actively working on resolving it, and your progress will be **updated automatically** once the issue is fixed.
+Please do not worry. This might be a skip made in the quiz/video item due to penalty score as the quiz/video item might not have been successfully completed/marked. Please verify that you've completed all the course items(1006/1006). If not, Please retry the missed contents again.
 
 In the meantime, you may try the following steps once:
 
 1. **Refresh your browser**
 2. **Log out**, clear your browser cache, and **log in again**
-
-If the issue still persists after these steps, no further action is required from your side. Your course completion status will be corrected by the support team shortly.
 
 **7.7 I feel the ViBe content or platform is not good or I am unhappy with the way progress is evaluated. Can I request an exception or bypass the system?**  
 
@@ -307,7 +330,7 @@ This special exam is conducted once every fortnight, so choosing this route may 
 
 Because this path is far more demanding and time-consuming than simply completing the regular videos, quizzes, and activities, most students find that continuing with the standard ViBe workflow is the faster and better option. 
 
-**7.7 Is the ViBe consent form compulsory? What if I don’t want to grant camera access?**
+**7.8 Is the ViBe consent form compulsory? What if I don’t want to grant camera access?**
 Yes — the consent form is compulsory.
 
 We would like to clearly inform you that providing consent is a mandatory requirement for any candidate enrolling in and continuing a course on the ViBe Learning Platform.
@@ -329,7 +352,33 @@ As outlined in the consent form:
 -> All data is handled strictly in accordance with the stated consent terms and applicable data-protection guidelines.
 -> In short, consent is not optional — it is a core requirement for participation on the platform.
 
+**7.9 What are penalty scores on the ViBe platform, and how do they affect our performance or HP?**
+Penalty scores are generated when anomalies are detected during your activity on the ViBe platform (for example, irregular behavior while watching video lessons or attempting quizzes).
 
+If the penalty score becomes high, you may be required to:
+
+->Rewatch the video lesson, and
+->Retake the associated quiz.
+
+At present, these penalty scores do not impact your HP (Health Points) or overall performance evaluation, as they are not being considered for scoring. Their primary purpose is to ensure proper engagement with the learning content.
+
+
+**7.10 What is the slot booking feature for cohorts? Is it compulsory?**  
+The slot booking feature allows students to schedule dedicated time slots to learn on the ViBe platform.
+
+From now on, students can book learning slots in advance as part of a commitment-based learning system.
+
+Each day, a total of 24 slots are available. Students may:
+
+  -> Choose any number of slots based on their availability.
+
+  -> Commit a specific percentage of course progress they plan to complete during those selected slots.
+
+Once a slot is booked, the student is expected to be active on ViBe during that time.
+
+If a student does not attend or engage during their booked slots, penalties may be applied, as the system treats slot booking as a commitment.
+
+The main goal of this feature is to encourage discipline, consistency, and accountability in learning rather than passive participation.
 ---
 
 
