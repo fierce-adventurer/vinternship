@@ -363,7 +363,7 @@ If the penalty score becomes high, you may be required to:
 At present, these penalty scores do not impact your HP (Health Points) or overall performance evaluation, as they are not being considered for scoring. Their primary purpose is to ensure proper engagement with the learning content.
 
 
-**7.10 What is the slot booking feature for cohorts?**  
+**7.10 What is the slot booking feature for cohorts? Is it compulsory?**  
 The slot booking feature allows students to schedule dedicated time slots to learn on the ViBe platform.
 
 From now on, students can book learning slots in advance as part of a commitment-based learning system.
